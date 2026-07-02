@@ -2,6 +2,8 @@
 
 Free anime streaming web interface.
 
+https://discord.gg/hHXMaG4GJh
+
 ## About
 OmniAnime is a client-side web app that aggregates video streams from various third-party sources.
 
